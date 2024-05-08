@@ -2,7 +2,7 @@ import "course-kit/dist/index.css";
 
 export default function Home() {
   return (
-    <div className="dark bg-neutral-950 flex flex-col w-full max-w-5xl mx-auto">
+    <div className="dark bg-black flex flex-col w-full max-w-5xl mx-auto">
       <h1 className="text-4xl text-center pt-20 pb-10 font-bold text-white">
         Agora Courses
       </h1>
