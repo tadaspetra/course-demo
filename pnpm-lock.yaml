@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   course-kit:
-    specifier: 0.0.85
-    version: 0.0.85(lucide-react@0.335.0)(prismjs@1.29.0)(react-markdown@9.0.1)(rehype-raw@7.0.0)
+    specifier: 0.0.88
+    version: 0.0.88(lucide-react@0.335.0)(prismjs@1.29.0)(react-markdown@9.0.1)(rehype-raw@7.0.0)
   next:
     specifier: 14.1.0
     version: 14.1.0(react-dom@18.2.0)(react@18.2.0)
@@ -784,8 +784,8 @@ packages:
     resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
     dev: true
 
-  /course-kit@0.0.85(lucide-react@0.335.0)(prismjs@1.29.0)(react-markdown@9.0.1)(rehype-raw@7.0.0):
-    resolution: {integrity: sha512-/aoVsZ4r/LonZptqL9/DyzT2wAj2BF3ryF5rR25B4PKEapvRud5wqdS9tJs6Ho6NoxdMnfwdOtb1OEAnJwhuWw==}
+  /course-kit@0.0.88(lucide-react@0.335.0)(prismjs@1.29.0)(react-markdown@9.0.1)(rehype-raw@7.0.0):
+    resolution: {integrity: sha512-Zk52gjwGSudmXFRdxPYIMVpx1k6stIw1TQvqKks8DfcexMIdzAhRpmj0bmpkj5825duuL4DJeh6aoPaF+62GCw==}
     peerDependencies:
       lucide-react: ^0.335.0
       prismjs: ^1.29.0
