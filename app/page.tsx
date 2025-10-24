@@ -6,6 +6,9 @@ export default function Home() {
       <h1 className="text-4xl text-center pt-20 pb-10 font-bold text-white">
         Agora Courses
       </h1>
+      <p className="text-center text-white mb-4">
+        Environment Test: {process.env.NEXT_PUBLIC_TEST || "Not set"}
+      </p>
       <div className=" flex coursekit-dark">
         <a
           href="/nextjs"
